@@ -5,9 +5,14 @@
         <description>ProductScope Update Feed</description>
         <language>en</language>
         <item>
+            <title>Version 2.2</title>
+            <pubDate>Mon, 15 Jun 2026 18:00:00 +0000</pubDate>
+            <enclosure url="https://github.com/TSA-Developer/productscope-releases/releases/download/v2.2/ProductScope_2.2.zip" sparkle:version="13" sparkle:shortVersionString="2.2" length="2856663" type="application/zip" sparkle:edSignature="DVqlnQyeCQZ9b6fuR07Tc/2A2Y2IJ7TZHqQlbBz0u5uqezcqT+RyZBLugHc0UZ44xfZ9I7JyOywOd4h5K0tCCA==" />
+        </item>
+        <item>
             <title>Version 2.1</title>
             <pubDate>Thu, 14 May 2026 00:27:00 +0000</pubDate>
-            <enclosure url="https://github.com/TSA-Developer/productscope-releases/releases/download/v2.1/ProductScope-2.1.dmg" sparkle:version="2" sparkle:shortVersionString="2.1" length="3288574" type="application/octet-stream" sparkle:edSignature="+8hxK7kUgSSIA59Oiqs6ta9fxIU86BCwKgfYvnJMAxBJ2FVWGgu0W8scrKx7Azpbd69clSUfmVH3isJNY6RwCg==" />
+            <enclosure url="https://github.com/TSA-Developer/productscope-releases/releases/download/v2.1/ProductScope_2.1.dmg" sparkle:version="2" sparkle:shortVersionString="2.1" length="3288574" type="application/octet-stream" sparkle:edSignature="+8hxK7kUgSSIA59Oiqs6ta9fxIU86BCwKgfYvnJMAxBJ2FVWGgu0W8scrKx7Azpbd69clSUfmVH3isJNY6RwCg==" />
         </item>
     </channel>
 </rss>
