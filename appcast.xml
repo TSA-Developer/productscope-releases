@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+        <title>ProductScope</title>
+        <description>ProductScope Update Feed</description>
+        <language>en</language>
+        <item>
+            <title>Version 2.1</title>
+            <pubDate>Thu, 14 May 2026 00:27:00 +0000</pubDate>
+            <enclosure url="https://github.com/TSA-Developer/productscope-releases/releases/download/v2.1/ProductScope-2.1.dmg" sparkle:version="2" sparkle:shortVersionString="2.1" length="3288574" type="application/octet-stream" sparkle:edSignature="+8hxK7kUgSSIA59Oiqs6ta9fxIU86BCwKgfYvnJMAxBJ2FVWGgu0W8scrKx7Azpbd69clSUfmVH3isJNY6RwCg==" />
+        </item>
+    </channel>
+</rss>
