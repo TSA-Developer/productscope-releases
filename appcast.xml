@@ -5,6 +5,11 @@
         <description>ProductScope Update Feed</description>
         <language>en</language>
         <item>
+            <title>Version 2.3</title>
+            <pubDate>Mon, 15 Jun 2026 20:00:00 +0000</pubDate>
+            <enclosure url="https://github.com/TSA-Developer/productscope-releases/releases/download/v2.3/ProductScope_2.3.zip" sparkle:version="14" sparkle:shortVersionString="2.3" length="2856669" type="application/zip" sparkle:edSignature="HtSUk9RGa8PrVjRziUHPjDXgZc9r8A0w9TBjovtxzgnAhcovcpHIa6mta/xAYqBoPAqTOXq9s7Zwr4FD0MimDQ==" />
+        </item>
+        <item>
             <title>Version 2.2</title>
             <pubDate>Mon, 15 Jun 2026 18:00:00 +0000</pubDate>
             <enclosure url="https://github.com/TSA-Developer/productscope-releases/releases/download/v2.2/ProductScope_2.2.zip" sparkle:version="13" sparkle:shortVersionString="2.2" length="2856663" type="application/zip" sparkle:edSignature="DVqlnQyeCQZ9b6fuR07Tc/2A2Y2IJ7TZHqQlbBz0u5uqezcqT+RyZBLugHc0UZ44xfZ9I7JyOywOd4h5K0tCCA==" />
